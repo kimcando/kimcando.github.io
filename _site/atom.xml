@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-19T07:10:36+09:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Think globally, act locally.</title><author><name>Soyeon Kim</name></author><entry><title type="html">Missing Values</title><link href="http://localhost:4000/tips_%20preprocessing/2022/02/19/Missing-Values/" rel="alternate" type="text/html" title="Missing Values" /><published>2022-02-19T00:00:00+09:00</published><updated>2022-02-19T00:00:00+09:00</updated><id>http://localhost:4000/tips_%20preprocessing/2022/02/19/Missing-Values</id><content type="html" xml:base="http://localhost:4000/tips_%20preprocessing/2022/02/19/Missing-Values/">&lt;h1 id=&quot;how-to-interpolate-the-missing-values&quot;&gt;How to interpolate the missing values&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-06T20:08:17+09:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Think globally, act locally.</title><author><name>Soyeon Kim</name></author><entry><title type="html">Missing Values</title><link href="http://localhost:4000/tips_%20preprocessing/2022/02/19/Missing-Values/" rel="alternate" type="text/html" title="Missing Values" /><published>2022-02-19T00:00:00+09:00</published><updated>2022-02-19T00:00:00+09:00</updated><id>http://localhost:4000/tips_%20preprocessing/2022/02/19/Missing-Values</id><content type="html" xml:base="http://localhost:4000/tips_%20preprocessing/2022/02/19/Missing-Values/">&lt;h1 id=&quot;how-to-interpolate-the-missing-values&quot;&gt;How to interpolate the missing values&lt;/h1&gt;
 
 &lt;h1 id=&quot;knn-imputer&quot;&gt;KNN Imputer&lt;/h1&gt;
 &lt;ol&gt;
@@ -9,15 +9,13 @@
   &lt;li&gt;tst&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts_imgs/audry.jpeg&quot; alt=&quot;test imag&quot; /&gt;&lt;/p&gt;</content><author><name>Soyeon Kim</name></author><summary type="html">How to interpolate the missing values</summary></entry><entry><title type="html">Types of Attention</title><link href="http://localhost:4000/deep%20learning/2022/02/18/Types-of-Attention/" rel="alternate" type="text/html" title="Types of Attention" /><published>2022-02-18T00:00:00+09:00</published><updated>2022-02-18T00:00:00+09:00</updated><id>http://localhost:4000/deep%20learning/2022/02/18/Types-of-Attention</id><content type="html" xml:base="http://localhost:4000/deep%20learning/2022/02/18/Types-of-Attention/">&lt;h1 id=&quot;how-to-interpolate-the-missing-values&quot;&gt;How to interpolate the missing values&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts_imgs/audry.jpeg&quot; alt=&quot;test imag&quot; /&gt;&lt;/p&gt;</content><author><name>Soyeon Kim</name></author><summary type="html">How to interpolate the missing values</summary></entry><entry><title type="html">Types of Attention</title><link href="http://localhost:4000/deep%20learning/2022/02/18/Types-of-Attention/" rel="alternate" type="text/html" title="Types of Attention" /><published>2022-02-18T00:00:00+09:00</published><updated>2022-02-18T00:00:00+09:00</updated><id>http://localhost:4000/deep%20learning/2022/02/18/Types-of-Attention</id><content type="html" xml:base="http://localhost:4000/deep%20learning/2022/02/18/Types-of-Attention/">&lt;h1 id=&quot;transformer-briefly&quot;&gt;Transformer briefly&lt;/h1&gt;
 
-&lt;h1 id=&quot;knn-imputer&quot;&gt;KNN Imputer&lt;/h1&gt;
-&lt;ol&gt;
-  &lt;li&gt;요약&lt;/li&gt;
-  &lt;li&gt;원리&lt;/li&gt;
-  &lt;li&gt;사용&lt;/li&gt;
-  &lt;li&gt;Pros &amp;amp; Cons&lt;/li&gt;
-  &lt;li&gt;tst&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;Transformer Backgrounds&lt;/a&gt; 
+&lt;a href=&quot;&quot;&gt;Transformer Components&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts_imgs/audry.jpeg&quot; alt=&quot;test imag&quot; /&gt;&lt;/p&gt;</content><author><name>Soyeon Kim</name></author><summary type="html">How to interpolate the missing values</summary></entry></feed>
+&lt;h1 id=&quot;types-of-attention-in-use&quot;&gt;Types of Attention in Use&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;NLP&lt;/li&gt;
+  &lt;li&gt;CV&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Soyeon Kim</name></author><summary type="html">Transformer briefly</summary></entry></feed>
