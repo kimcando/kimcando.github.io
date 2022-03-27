@@ -1,7 +1,7 @@
 ---
 title: Competition Mask Image Classification Preface
 categories:
-- retro_ competition
+- retro/classification_competition
 ---
 
 ## 시작하기에 앞서

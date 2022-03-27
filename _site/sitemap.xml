@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/deep%20learning/2022/02/18/Types-of-Attention/</loc>
-<lastmod>2022-02-18T00:00:00+09:00</lastmod>
+<loc>http://localhost:4000/retro/classification_competition/2022/03/06/Competition-Mask-Image-Classification_Preface/</loc>
+<lastmod>2022-03-06T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/tips_%20preprocessing/2022/02/19/Missing-Values/</loc>
-<lastmod>2022-02-19T00:00:00+09:00</lastmod>
+<loc>http://localhost:4000/linear_algebra/silly_questions/2022/03/28/About-Matrix/</loc>
+<lastmod>2022-03-28T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
