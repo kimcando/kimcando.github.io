@@ -1,7 +1,7 @@
 ---
 title: About Matrix
 categories:
-- linear_algebra/silly_questions
+- linear_algebra: silly_questions
 ---
 
 ## 행렬 첫번째 시리즈를 소개한다.
