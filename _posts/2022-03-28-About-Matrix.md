@@ -105,7 +105,7 @@ loss landscape으로 설명한다. [Loss landscape visualization](https://arxiv.
 
 따라서 non-convex 한 딥러닝 모델에서 특히 sharp한 loss land scape을 가지는 경우 training loss 만을 줄이는 것이 아니라 smooth한 loss landscape을 가질 수 있도록 최적화를 고려해야한다라고 주장한다. 
 이 두가지를 이룰 수 있는 기존의 방법인 sharp aware minimization (SAM) optimizer를 사용함으로써 pre-training, strong data augmentation 없이도 비슷한 파라미터 규모의 resnet과 비교해 높은 성능을 낼 수 있음을 보였다. 
-물론 그 이외에 초반 레이어를 sparse하게 만들어 pruning의 가능성을 높일 수 있고, attention map도 더 유의미하게 나온다는 장점도 보였으나 이는 생략한다. 
+물론 그 이외에 초반 레이어를 sparse하게 만들어 pruning의 가능성을 높일 수 있고, attention map도 더 유의미하게 나온다는 장점도 보였으나 이는 생략한다.(구체적으로 알고 싶다면 [발표용 파일](https://drive.google.com/file/d/1sei99BRpJ8f-gaL1futcP8alpgFqwP8C/view?usp=sharing) 참고)
 이 논문 말고도 네이버에서 낸 [How do vision transformers work](https://arxiv.org/abs/2202.06709) 에서 마찬가지로 hessian으로 분석을 하는데, 
 ViT와 resnet의 loss landscape 경향성이 좀 다르다. 어떤 파라미터를 축으로 시각화했는지에 따라 달라지는건지, loss 값의 scale을 다르게 해서인지는 확인해봐야할 것 같다.
 (아래 그림에서 좌측은 How do vision transformes work, 우측은 When vision transformer~ 논문 그림이다.)
